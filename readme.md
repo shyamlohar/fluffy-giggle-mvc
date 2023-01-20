@@ -1,5 +1,8 @@
 # Mini MVC framework
 
+# Demo URL
+https://silly-parfait-63b17b.netlify.app/
+
 ## How to Use
 Just link the mvc.js or mvc-ejs.js right before the closing </body> tag, followed by your own custom JavaScript file, scripts.js or whatever you name it.
 
