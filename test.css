@@ -1,0 +1,43 @@
+#input-bar {
+    min-height: 20px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-family: monospace;
+}
+
+.calculator-buttons {
+    display: flex;
+    width: 300px;
+}
+
+.calculator-numbers {
+    display: flex;
+    max-width: 180px;
+    flex-wrap: wrap
+}
+
+.calculator-numbers button {
+    appearance: none;
+    outline: none;
+    height: 50px;
+    width: 33%;
+    border: 1px solid gray;
+    background-color: gainsboro;
+}
+
+
+.calculator-operators {
+    max-width: 50px;
+}
+
+.calculator-operators  button{
+    height: 50px;
+    width: 50px;
+}
+
+#clear-button {
+    appearance: none;
+    width: 230px;
+    height: 50px;
+    background: gainsboro;
+}
